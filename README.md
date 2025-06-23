@@ -12,4 +12,8 @@
 ## Purpose  
 - Virtual testing of conveyor logic (start/stop, speed control, object detection).  
 - Real-time monitoring via a Unity interface.  
-- Protocol integration for industrial interoperability (e.g., OPC UA servers).  
+- Protocol integration for industrial interoperability (e.g., OPC UA servers).
+
+
+
+![Digitally Twinning the Siemens Conveyor Belt](https://github.com/user-attachments/assets/fbd0b663-db5e-42ee-a5da-89341a79b7e8)
